@@ -6,5 +6,4 @@ vendor: Sensatronics,NETWAYS
 target: Temperature
 type: Plugin
 license: gplv2
-releases: 
 
